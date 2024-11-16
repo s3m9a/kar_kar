@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine
+}
+
+h1 {
+    color: aliceblue;
+    border-color: blue
+
+.my_name {
+    margin: 100px
+}
+
+#picture {
+    border-radius: 10px;
+    box-shadow: 3px 4px 3px rgba(0,0,0, 0.6);
+    margin: 100px
+}
